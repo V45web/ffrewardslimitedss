@@ -1,0 +1,40 @@
+.body{
+	background-image:url("images/image1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+.head{
+	color:white;
+}
+
+.div{
+	background-color:#fcca03;
+	display:block;
+	padding:30px 100px;
+	margin-bottom:100px;
+}
+
+.button{
+	padding:20px 50px;
+	font-size:16px;
+	border-radius:10px;
+	border:none;
+	background-color:#fcca03;
+	color:white;
+}
+
+.l{
+	background-color:white;
+	opacity:0.6;
+	border-radius:10px;
+	margin:70px 20px;
+	padding:20px 10px;
+	text-align:center;
+}
+
+.logo{
+	width:200px;
+	height:auto;
+}
